@@ -60,3 +60,4 @@ Thumbs.db
 .cache/
 .pytest_cache/
 backend/.env
+screenshots/
